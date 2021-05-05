@@ -1,0 +1,11 @@
+{
+  "name": "chain",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node chain.js"
+  },
+  "dependencies": {
+    "crypto-js": "^3.3.0"
+  }
+}
